@@ -15,3 +15,4 @@ Actualmente estudio Desarrollo de Aplicaciones enfocado a múltiples plataformas
 
 ### Aportaciones a Github
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wikimicroondas&theme=github" />
