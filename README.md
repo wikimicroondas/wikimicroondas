@@ -1,6 +1,6 @@
-## Alejando Camino
+## Soy Alejando Camino
 
-### Estudiante de Desarrollo de Aplicaciones
+Actualmente estudio Desarrollo de Aplicaciones enfocado a múltiples plataformas. Por cuenta propia, continúo formándome mediante recursos externos como; cursos certificados por JetBrains Academy y guías de Roadmap.sh
 
 ---
 
