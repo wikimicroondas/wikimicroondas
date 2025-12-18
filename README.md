@@ -19,7 +19,7 @@ Actualmente estudio Desarrollo de Aplicaciones enfocado a múltiples plataformas
 </picture>
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/plain">
   <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </picture>
 <br clear="left"/>
