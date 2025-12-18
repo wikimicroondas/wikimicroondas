@@ -1,6 +1,6 @@
 ## Soy Alejando Camino
 
-Actualmente estudio Desarrollo de Aplicaciones enfocado a múltiples plataformas en el IESME. Por cuenta propia, continúo formándome mediante recursos externos como; cursos certificados por JetBrains Academy y guías de Roadmap.sh
+Actualmente estudio Desarrollo de Aplicaciones enfocado a múltiples plataformas en el IESME. Por cuenta propia, continúo formándome mediante recursos externos como; cursos certificados por JetBrains Academy, DataCamp y guías de Roadmap.sh
 
 ---
 
@@ -19,8 +19,8 @@ Actualmente estudio Desarrollo de Aplicaciones enfocado a múltiples plataformas
 </picture>
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/white](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
-  <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/white">
+  <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </picture>
 <br clear="left"/>
 
