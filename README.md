@@ -4,7 +4,7 @@ I'm currently studying a Vocational Degree in Multi-Platform Application Develop
 
 ---
 
-### Languages
+### Technologies Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,7 +13,7 @@ I'm currently studying a Vocational Degree in Multi-Platform Application Develop
 </p>
 
 
-### Github Act
+### Github Activity
 
 <div align="center">
   <picture>
