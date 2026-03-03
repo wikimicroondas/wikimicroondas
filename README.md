@@ -10,11 +10,5 @@ I'm currently studying a Vocational Degree in Multi-Platform Application Develop
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,git,bash,html,css,postgres,md" />
   </a>
-</p>
-
-
-### Github metrics
-
-<div align="center">
   <img src="github-metrics.svg" alt="Most used languages" />
-</div>
+</p>
