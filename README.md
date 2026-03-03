@@ -13,11 +13,8 @@ I'm currently studying a Vocational Degree in Multi-Platform Application Develop
 </p>
 
 
-### Github activity
+### Github metrics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wikimicroondas&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wikimicroondas&theme=github" />
-  </picture>
+  <img src="github-metrics.svg" alt="Most used languages" />
 </div>
