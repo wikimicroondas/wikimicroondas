@@ -16,7 +16,11 @@ jobs:
           user: wikimicroondas
           template: classic
           base: ""
+          config_display: large
+          extras_css: |
+            h2 { display: none !important; }
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
+          plugin_languages_colors: "java:#EA2D2E, html:#E34F26, css:#1572B6, javascript:#F7DF1E, kotlin:#7F52FF, python:#3776AB, sql:#4479A1, xml:#00608C"
