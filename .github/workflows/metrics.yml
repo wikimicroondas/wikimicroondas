@@ -15,7 +15,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: wikimicroondas
           template: classic
+          base: ""
           plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: wikimicroondas
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_sections: recently-used
