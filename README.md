@@ -10,5 +10,8 @@ I'm currently studying a Vocational Degree in Multi-Platform Application Develop
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,git,bash,html,css,postgres,md" />
   </a>
-  <img src="github-metrics.svg" alt="Most used languages" />
+  <picture>
+    <source media="(min-width: 768px)" srcset="github-metrics-desktop.svg">
+    <img src="github-metrics-mobile.svg" alt="Languages" />
+  </picture>
 </p>
