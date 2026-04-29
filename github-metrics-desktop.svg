@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="496.97193452478194" height="8" fill="#f7df1e"/>
-                    <rect mask="url(#languages-bar)" x="496.97193452478194" y="0" width="233.89507846788862" height="8" fill="#ea2d2e"/>
-                    <rect mask="url(#languages-bar)" x="730.8670129926707" y="0" width="110.05913679877153" height="8" fill="#e34f26"/>
-                    <rect mask="url(#languages-bar)" x="840.9261497914422" y="0" width="79.07385020855796" height="8" fill="#1572b6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="499.50151057401814" height="8" fill="#f7df1e"/>
+                    <rect mask="url(#languages-bar)" x="499.50151057401814" y="0" width="230.40281973816718" height="8" fill="#ea2d2e"/>
+                    <rect mask="url(#languages-bar)" x="729.9043303121853" y="0" width="110.61933534743203" height="8" fill="#e34f26"/>
+                    <rect mask="url(#languages-bar)" x="840.5236656596172" y="0" width="79.47633434038268" height="8" fill="#1572b6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>54.02%</div>
+                                <div>54.29%</div>
                             </small>
                         </div>
                     </section>
@@ -49,7 +49,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>25.42%</div>
+                                <div>25.04%</div>
                             </small>
                         </div>
                     </section>
@@ -62,7 +62,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>11.96%</div>
+                                <div>12.02%</div>
                             </small>
                         </div>
                     </section>
@@ -75,7 +75,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>8.59%</div>
+                                <div>8.64%</div>
                             </small>
                         </div>
                     </section>
